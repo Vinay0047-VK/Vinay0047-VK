@@ -5,7 +5,7 @@
 
 🎓 Bsc Phy & Math Graduate (2024) 
 
-💻 Software Engineer, Developer  
+💻 Aspiring Software Engineer, Developer  
 🚀 Passionate about building web applications and learning new technologies  
 
 ---
@@ -13,7 +13,7 @@
 ## 🛠️ Tech Stack
 - **Programming Language:** C, C++, Java Object Oriented,Python
 - **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** Python, Django  
+- **Backend:** Django  
 - **Database:** PostgreSQL, MySQL  
 - **Tools:** Git, GitHub, Basic Docker
 
