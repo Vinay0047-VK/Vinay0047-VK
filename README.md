@@ -2,6 +2,7 @@
 # 👋 Hi, I'm Vinay Kumar N
 
 🎓 MCA Student (Graduating in 2026) 
+
 🎓 Bsc Phy & Math Graduate (2024) 
 
 💻 Aspiring Full Stack Developer  
