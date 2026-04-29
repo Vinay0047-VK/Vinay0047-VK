@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**Vinay0047-VK/Vinay0047-VK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Vinay Kumar N
 
-Here are some ideas to get you started:
+🎓 MCA Student (Graduating in 2026) 
+🎓 Bsc Phy & Math Graduate (2024) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Aspiring Full Stack Developer  
+🚀 Passionate about building web applications and learning new technologies  
+
+---
+
+## 🛠️ Tech Stack
+- **Programming Language:** C, C++, Java Object Oriented,Python
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Python, Django  
+- **Database:** PostgreSQL, MySQL  
+- **Tools:** Git, GitHub, Basic Docker
+
+---
+
+## 📈 Currently Learning
+- Advanced React  
+- Backend Development with Django  
+- Data Analytics  
+
+---
+
+## 📫 Connect with Me
+- 📧 Email: __vinaykumartlgp45@gmail.com__  
+- 🔗 LinkedIn: __www.linkedin.com/in/vinay-kumar-n-b98024208__  
+
+---
+
+## ⚡ Fun Fact
+I enjoy learning by building simple and practical projects.
