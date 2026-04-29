@@ -5,7 +5,7 @@
 
 🎓 Bsc Phy & Math Graduate (2024) 
 
-💻 Aspiring Full Stack Developer  
+💻 Software Engineer, Developer  
 🚀 Passionate about building web applications and learning new technologies  
 
 ---
